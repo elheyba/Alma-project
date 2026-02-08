@@ -5,8 +5,9 @@ This repository contains the source code for **Part 1** of the ALMA PhD trial ta
 The prototype utilizes the **Google Gemini API** to demonstrate pedagogical behaviors such as constructive friction, reflective questioning, and role adaptation (Novice vs. Professional).
 
 ## 📂 Project Structure
+#### 📄 Part 1:
 * `elheyba.ipynb`: The main Jupyter Notebook containing the application prototype, system architecture, and design rationale.
-### 📄 Part 2: The Reflection Report
+#### 📄 Part 2: The Reflection Report
 * `report.pdf`: The accompanying theoretical report.
     * **Content:** Defines the learning scenario (High-Level Software Architecture), analyzes the "Oracle Trap," and provides the pedagogical justification for the design choices (e.g., why the AI refuses to answer "lazy" prompts).
 
